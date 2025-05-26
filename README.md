@@ -2,7 +2,7 @@
 
 <h2>Sobre</h2>
 
-<p>Projeto utilizado para exemplo</p>
+<p>Projeto utilizado para exemplo- Alterado</p>
 
 ## Tecnologias
 <div>
